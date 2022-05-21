@@ -1,0 +1,2 @@
+# ChinoBot
+Bot for Discord
